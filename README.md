@@ -9,9 +9,6 @@
 * 简化的Experience
 * 基本的网络同步
 
-修改项：
-* 将IMC配置移动到PawnData中
-
 待实现：（大饼）
 * 最小的InputMapping支持
 * 最小的CommonUI支持
